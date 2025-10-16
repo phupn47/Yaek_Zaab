@@ -167,7 +167,7 @@ This improved CNN model successfully enhances learning ability while minimizing 
 ## Model Download
 
 The trained model file is available here (if you’d like to try it out):
-[Go to my Google Drive](https://drive.google.com/drive/folders/1iJaBjYEXIm2ksW2CAENIUSUvWpU5tB_H?usp=drive_link)
+[Download on Google Drive](https://drive.google.com/drive/folders/1iJaBjYEXIm2ksW2CAENIUSUvWpU5tB_H?usp=drive_link)
 
 ---
 
