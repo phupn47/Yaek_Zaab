@@ -26,7 +26,10 @@ I worked as one of the **team members**, mainly focusing on:
 
 In addition to the modeling and design, I also **collected and curated the dataset myself** by photographing bell peppers at different ripeness stages (green, yellow, red, and rotten) to ensure that the model learns from real-world examples with diverse lighting and angle conditions.
 
-Our idea came from wanting to make technology **more inclusive**, even for tasks as simple as sorting vegetables.  
+Our idea came from wanting to make technology **more inclusive**, even for tasks as simple as sorting vegetables.
+
+You can try the live demo here:  
+[View Live Website](https://g9tuesa.consolutechcloud.com/frontend.html)
 
 ---
 
