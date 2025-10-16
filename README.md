@@ -172,8 +172,10 @@ The trained model file is available here (if you’d like to try it out):
 ---
 
 ## About Me
+
 **Phawadon Nuresaard**
-Bachelor of Engineering, IoT Systems & Information Engineering — KMITL
+
+Bachelor of Engineering, IoT Systems & Information Engineering, KMITL
 
 - **Role**: Model Developer & UI Designer
 - Also responsible for **dataset collection** (manual photo capturing & preprocessing)
