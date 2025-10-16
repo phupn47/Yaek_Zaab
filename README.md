@@ -1,3 +1,10 @@
+<p align="center">
+    <img width="50" height="50" alt="pepper_red" src="https://github.com/user-attachments/assets/8b98972c-9677-4274-a8aa-d9fc152156d3" />
+    <img width="50" height="50" alt="pepper_yellow" src="https://github.com/user-attachments/assets/e44658ea-a1c3-41cd-933b-cc9df004e37e" />
+    <img width="50" height="50" alt="pepper_green" src="https://github.com/user-attachments/assets/f8e4cbd8-0d09-46cb-bff3-adc418d82457" />
+    <img width="50" height="50" alt="pepper_rotten" src="https://github.com/user-attachments/assets/7314723e-0dfa-44b7-9ba0-d443eb278ebb" />
+</p>
+
 # Yaek Zaab — Bell Pepper Ripeness Detection
 
 **Hi everyone !!**
@@ -118,6 +125,8 @@ The training and validation accuracy curves both rise steadily before flattening
 - The model learned features effectively.
 - There’s no major overfitting since both curves stabilize closely together.
 
+<img width="424" height="331" alt="Screenshot 2025-10-16 213600" src="https://github.com/user-attachments/assets/14894d05-afa8-4a51-a0fe-0564feef4e91" />
+
 *(Interpretation: The orange line, validation accuracy follows the blue line closely, meaning the model generalizes well to unseen data.)*
 
 ### - Loss Trend
@@ -126,6 +135,8 @@ The training and validation loss curves drop smoothly and converge near zero.
 
 - Early epochs show rapid improvement (loss decreases sharply).
 - After about 10 epochs, both losses stabilize indicating convergence.
+
+<img width="420" height="320" alt="Screenshot 2025-10-16 213541" src="https://github.com/user-attachments/assets/b9776b02-d04d-4703-8f1c-35ceb0866e5f" />
 
 *(Interpretation: The model stops improving significantly after ~30 epochs, suggesting training is optimal.)*
 
@@ -136,6 +147,8 @@ The confusion matrix shows that:
 - Misclassifications are minimal (e.g., a few rotten peppers misread as unknown).
 
 Overall, the model differentiates between classes very accurately.
+
+<img width="457" height="395" alt="Screenshot 2025-10-16 213618" src="https://github.com/user-attachments/assets/9a658cb2-7995-4056-85af-bdd2e763f7f2" />
 
 ---
 
