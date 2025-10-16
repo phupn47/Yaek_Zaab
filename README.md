@@ -181,3 +181,9 @@ Bachelor of Engineering, IoT Systems & Information Engineering, KMITL
 - Also responsible for **dataset collection** (manual photo capturing & preprocessing)
 - **Interested in**: AI/ML and Data Analytics
 
+> **Note:**  
+> This project was a group collaboration.  
+> I was mainly responsible for the **AI model development**, **dataset collection**, and **color-blind–friendly UI design**.  
+> The web development and deployment parts were handled by my teammate.  
+> Since my focus was on the model and AI aspects, this repository includes only the model, training notebook, and related analysis.
+
