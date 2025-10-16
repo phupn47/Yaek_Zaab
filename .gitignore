@@ -1,0 +1,21 @@
+# Model files
+*.h5
+*.hdf5
+*.pkl
+*.pt
+*.ckpt
+
+# Checkpoints
+checkpoints/
+logs/
+.ipynb_checkpoints/
+
+# Ignore all Jupyter notebooks
+*.ipynb
+
+# But keep this one
+!G9_Yaek_Zaab.ipynb
+
+# Ignore checkpoint folders
+.ipynb_checkpoints/
+
