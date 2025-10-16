@@ -36,10 +36,10 @@ Yaek Zaab uses a **Convolutional Neural Network (CNN)** to identify which stage 
 
 | Class | Stage | Details |
 |--------|--------|-------------|
-| 🟢 Green | Early | Mild flavor, less sweet |
-| 🟡 Yellow | Medium | Balanced taste |
-| 🔴 Red | Ripe | Sweet and juicy |
-| ⚫ Rotten | Spoiled | Unsafe to eat |
+| <img width="50" height="50" alt="pepper_green" src="https://github.com/user-attachments/assets/f8e4cbd8-0d09-46cb-bff3-adc418d82457" /> | Early | Mild flavor, less sweet |
+| <img width="50" height="50" alt="pepper_yellow" src="https://github.com/user-attachments/assets/e44658ea-a1c3-41cd-933b-cc9df004e37e" /> | Medium | Balanced taste |
+| <img width="50" height="50" alt="pepper_red" src="https://github.com/user-attachments/assets/8b98972c-9677-4274-a8aa-d9fc152156d3" /> | Ripe | Sweet and juicy |
+| <img width="50" height="50" alt="pepper_rotten" src="https://github.com/user-attachments/assets/7314723e-0dfa-44b7-9ba0-d443eb278ebb" /> | Spoiled | Unsafe to eat |
 
 The web application allows users to upload an image of a bell pepper to predict its class using the trained CNN model.
 
@@ -76,6 +76,9 @@ This feature is optimized for **mobile phones and tablets**, making the system m
 | Frontend | HTML, CSS, JavaScript |
 | Design | Figma -> color-blind–friendly UI |
 | Development | Jupyter Notebook, VS Code |
+
+**Figma Board (Full UI Overview):**  
+[View the Complete Design on Figma](https://www.figma.com/design/wTdQE39Byvn5cnnEvIOzeM/AI_project?node-id=0-1&t=RbU8Y8UfuFNBT8wq-1)
 
 ---
 
