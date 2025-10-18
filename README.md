@@ -5,7 +5,7 @@
     <img width="50" height="50" alt="pepper_rotten" src="https://github.com/user-attachments/assets/7314723e-0dfa-44b7-9ba0-d443eb278ebb" />
 </p>
 
-# Yaek Zaab — Bell Pepper Ripeness Detection
+# Yaek Zaab - Bell Pepper Ripeness Detection
 
 **Hi everyone !!**
 
